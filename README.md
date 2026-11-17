@@ -8,7 +8,7 @@
 
 [![Studio](https://img.shields.io/badge/DevRight_Studios-Core_Team-0b1220?style=for-the-badge&labelColor=1f6feb)](https://devrightstudios.com)
 ![Account](https://img.shields.io/badge/Account-Multi--User_Team-0b1220?style=for-the-badge&labelColor=8957e5)
-![C++](https://img.shields.io/badge/C%2B%2B-20-0b1220?style=for-the-badge&logo=cplusplus&labelColor=00599C)
+![C++](https://img.shields.io/badge/C%2B%2B-23-0b1220?style=for-the-badge&logo=cplusplus&labelColor=00599C)
 ![DirectX 12](https://img.shields.io/badge/DirectX-12-0b1220?style=for-the-badge&logo=windows&labelColor=0078D4)
 
 </div>
